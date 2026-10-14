@@ -1,7 +1,7 @@
 -- ============================================================
 -- PROYECTO: Dashboard de Inteligencia de Clientes y Ventas (Colombia)
 -- AUTOR: Amaury Muñiz
--- HERRAMIENTA: DuckDB (Procesamiento ultra eficiente en VS Code)
+-- HERRAMIENTA: DuckDB 
 -- ============================================================
 
 -- 1. Crear la vista principal con limpia conversión de la columna Total
